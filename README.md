@@ -75,10 +75,6 @@ Homodyne FMCW GPR with the following RF chain:
 
 
 
-## Report
 
-Full project report available in `/report/`.
-
----
 
 *Department of Electrical Engineering, IIT Indore — Nov. 2025*
