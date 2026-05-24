@@ -73,13 +73,7 @@ Homodyne FMCW GPR with the following RF chain:
 
 ---
 
-## Repository Structure
-/report          — Full B.Tech. project report (PDF)
-/code
-/stm32       — STM32 firmware for I/Q data extraction
-/python      — Python scripts for data display and FFT
-/schematics      — Circuit schematics of each module (PDF or PNG)
----
+
 
 ## Report
 
